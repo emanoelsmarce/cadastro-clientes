@@ -22,6 +22,12 @@ Este projeto é uma aplicação desenvolvida em **Delphi** com foco em uma **tel
 
 ## 📁 Estrutura do Projeto
 
+/src
+├── frmCadastroCliente.pas
+├── frmCadastroCliente.dfm
+├── uDmConexao.pas
+├── uDmConexao.dfm
+└── main.dpr
 
 ## 🧪 Como Usar
 
